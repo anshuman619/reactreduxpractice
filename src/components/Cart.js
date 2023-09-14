@@ -23,7 +23,7 @@ const User = () => {
           <button
             className="button"
             onClick={() =>
-              alert("Hello, your Item is added to the cart successfully.....")
+              alert("Hello, your Item is added to the cart successfully...")
             }
           >
             Add To Cart
